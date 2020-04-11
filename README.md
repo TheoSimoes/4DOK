@@ -1,1 +1,1 @@
-# 4DOK Application for Openinnovation project at Epsi school
+# 4DOK Application for Open Innovation project at Epsi school
